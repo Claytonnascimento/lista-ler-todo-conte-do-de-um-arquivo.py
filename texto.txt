@@ -1,0 +1,5 @@
+A Engenharia de Software é uma disciplina que aplica princípios, 
+métodos e ferramentas para projetar, desenvolver e manter software de forma sistemática e confiável. 
+Seu objetivo é criar soluções de alta qualidade, eficientes, seguras e que atendam às necessidades do mercado, gerenciando a complexidade do desenvolvimento 
+para produzir software que seja funcional, de bom desempenho, fácil de usar e manutenível. 
+Quando vamos a Veturno?.
