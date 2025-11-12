@@ -1,0 +1,10 @@
+arquivo = open('texto.txt', 'r')
+palavra = input("\nDigite a palavra que deseja buscar: ")
+print(f"\n=== BUSCANDO '{palavra}' ===")
+num = 0
+for numero, linha in enumerate(arquivo, start=1):
+    if palavra.lower() in linha.lower():
+        print(f"Linha {numero}: {linha.strip()}")
+        num += 1
+if num == 0:
+    print("Palavra não encontrada.")
