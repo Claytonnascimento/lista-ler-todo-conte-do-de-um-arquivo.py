@@ -1,0 +1,1 @@
+# lista-ler-todo-conte-do-de-um-arquivo.py
